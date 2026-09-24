@@ -7,7 +7,9 @@ This section documents the CAD software environment prepared for the Mechanical 
 ### Software Environment
 
 **Primary CAD Software:** SolidWorks
+
 **CAD Application:** SolidWorks 2026
+
 **Application Area:** Mechanical Part Modelling, Assembly Design and Engineering Drawings
 
 ### Working Setup
@@ -33,6 +35,9 @@ The software environment has been prepared to support:
 ### Internship
 
 **Organization:** YuvaIntern
+
 **Domain:** Mechanical CAD
+
 **Task:** Task 01 – Software Environment
+
 **Author:** Saurabh Kumar
