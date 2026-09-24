@@ -1,16 +1,38 @@
-# Task 01 – Mechanical CAD
+# Task 01 – Software Environment
 
-## Internship
-Yuvaintern – Mechanical CAD Internship
+## YuvaIntern Mechanical CAD Internship
 
-## Objective
-To complete the assigned Mechanical CAD task and demonstrate CAD modelling skills.
+This section documents the CAD software environment prepared for the Mechanical CAD internship.
 
-## Software Used
-- SolidWorks
+### Software Environment
 
-## Task Description
-Brief description of the assigned task.
+**Primary CAD Software:** SolidWorks
+**CAD Application:** SolidWorks 2026
+**Application Area:** Mechanical Part Modelling, Assembly Design and Engineering Drawings
 
-## Result
-The completed CAD model and relevant files are attached in this repository.
+### Working Setup
+
+The attached screenshot provides evidence of the working SolidWorks environment used for completing the internship tasks.
+
+### Purpose
+
+The software environment has been prepared to support:
+
+* 3D mechanical part modelling
+* Assembly development
+* Engineering drawing creation
+* Design modifications and iterations
+* CAD-based mechanical design practice
+
+### Setup Evidence
+
+![SolidWorks Working Setup](SolidWorks_Working_Setup.png)
+
+**Figure 1:** SolidWorks working environment prepared for the YuvaIntern Mechanical CAD internship.
+
+### Internship
+
+**Organization:** YuvaIntern
+**Domain:** Mechanical CAD
+**Task:** Task 01 – Software Environment
+**Author:** Saurabh Kumar
