@@ -25,12 +25,12 @@ The software environment has been prepared to support:
 * Engineering drawing creation
 * Design modifications and iterations
 * CAD-based mechanical design practice
+## Setup Evidence
 
-### Setup Evidence
-
-![SolidWorks Working Setup](SolidWorks_Working_Setup.png)
+[![SolidWorks Working Setup](SolidWorks_Working_Setup.png)](SolidWorks_Working_Setup.png)
 
 **Figure 1:** SolidWorks working environment prepared for the YuvaIntern Mechanical CAD internship.
+
 
 ### Internship
 
